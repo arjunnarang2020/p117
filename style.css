@@ -1,0 +1,22 @@
+.background{
+    background-color: aqua;
+}
+
+.span{
+    font-size: large;
+    float: right;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+#label1{
+    text-emphasis-color: orange;
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+#label2{
+    text-emphasis-color: orange;
+    font-family: cursive;
+    font-weight: bolder;
+}
